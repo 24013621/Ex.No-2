@@ -106,7 +106,8 @@ int main(){
 ```
 
 ## OUTPUT:
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/06e908a9-bf94-4fd1-ac12-e91726528c6f" />
+<img width="1482" height="769" alt="Screenshot 2026-05-15 094920" src="https://github.com/user-attachments/assets/e52eb55b-229b-45f1-a2f8-6f5d324d3b42" />
+
 
 ## RESULT:
  The lexical analyzer is implemented using lex and the output is verified.
